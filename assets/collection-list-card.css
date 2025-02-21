@@ -1,3 +1,11 @@
+.collectionlist_title{
+   font-family: var(--font-heading-family);
+    font-style: var(--font-heading-style);
+    font-size: calc(var(--font-heading-scale) * 28px);
+    font-weight:600;
+}
+
+
 .card{
   background-color: unset;
 }
